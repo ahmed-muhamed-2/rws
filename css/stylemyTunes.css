@@ -102,6 +102,12 @@ nav ul{
 nav a#openup {
     display: none;
 }
+.giftcard{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr;
+    text-align: left;
+}
 /*footer*/
 footer .footer-cols{
     display: grid;
